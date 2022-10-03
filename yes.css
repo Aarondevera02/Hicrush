@@ -1,0 +1,19 @@
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
+a:link, a:visited{
+	background-color: rgb(240, 73, 190);
+	border-radius: 25px;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+a:hover, a:active {
+	background-color: black;
+}
